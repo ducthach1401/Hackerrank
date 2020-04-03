@@ -1,0 +1,5 @@
+n = input("day so:")
+listtemp = n.split(',')
+print (listtemp)
+listtemp = tuple(listtemp)
+print (listtemp)
